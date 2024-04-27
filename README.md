@@ -1,5 +1,5 @@
 # My-First-EC2-Instance
-# MyFirstEC2Instance  A beginner-friendly guide to launching your first AWS EC2 instance. Get started with cloud computing!
+# A beginner-friendly guide to launching your first AWS EC2 instance. Get started with cloud computing!
 # Launching Your First AWS EC2 Instance
 
 This guide will walk you through the steps to launch your first AWS EC2 instance.
